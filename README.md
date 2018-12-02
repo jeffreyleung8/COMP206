@@ -1,2 +1,4 @@
 # COMP206
-COMP206 Assignments
+COMP206 Introduction to Software Systems Winter 2017  
+McGIll University  
+Assignments  
